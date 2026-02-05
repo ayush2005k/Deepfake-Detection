@@ -1,2 +1,3 @@
-# Deepfake-Detection
-This project presents a Python-based deepfake detection system that compares real and manipulated facial images using image similarity metrics such as Mean Squared Error (MSE) and Structural Similarity Index (SSIM). The system is evaluated on a Kaggle deepfake image dataset downloaded programmatically using KaggleHub.
+# Deepfake Image Detection Using Image Similarity 🕵️
+📌 Overview
+This project implements a foundational deepfake detection pipeline using Python. It detects potential image manipulation by comparing real and manipulated images through visual similarity analysis using image preprocessing and statistical similarity metrics.
